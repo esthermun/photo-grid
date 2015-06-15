@@ -1,0 +1,24 @@
+body, html{
+	margin:0;
+	height:100%;
+}
+.photoGallery{
+	text-align: center;
+	padding:0;
+	padding-bottom: 60px;
+}
+.galleryHeading{
+	margin-top:60px;
+	margin-bottom:60px;
+}
+.photos img{
+	display: inline-block;
+	margin-top: 15px;
+	box-shadow: 1px 1px 5px #666666;
+}
+.thumbnail{
+	border:none;
+}
+.photos .btn{
+	box-shadow: 1px 1px 3px #666666;
+}
